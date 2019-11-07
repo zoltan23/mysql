@@ -1,0 +1,8 @@
+CREATE DATABASE JamWithOurBand;
+
+USE JamWithOurBand;
+
+CREATE TABLE User(
+    UserID INT NOT NULL AUTO_INCREMENT,
+    PRIMARY KEY (UserID)
+)
